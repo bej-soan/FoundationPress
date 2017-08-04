@@ -124,7 +124,6 @@ Version control on these files are turned off because they are automatically gen
 * [Ameronix](http://www.ameronix.com/)
 * [Finnerodja](http://www.finnerodja.se/)
 * [Glossop Cartons](http://www.glossopcartons.co.uk/)
-* [Ready4Work](http://www.ready4work.my/)
 * [Just Legal](http://www.justlegal.co.jp/en/)
 * [Vintage and Stuff](http://vintageandstuff.com/)
 * [Software for FM](http://softwareforfm.co.uk/)
